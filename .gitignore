@@ -1,0 +1,3 @@
+docs/.obsidian/*
+*.lock
+*DS_Store*
